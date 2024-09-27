@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;  
+    background-color: skyblue; 
+     background-image: url(clouds.webp);
+}
+#app{
+     background-image: linear-gradient(to bottom right,rgb(119, 251, 119),rgb(255, 206, 255));
+    
+}
